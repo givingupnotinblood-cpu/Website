@@ -1,0 +1,8 @@
+{
+  "name": "BhavyaXtreme — Content Creator",
+  "description": "BhavyaXtreme is a content creator from India creating high-quality challenge, exploration and experiment-based content. Available for brand collaborations, creative campaigns and creator-led concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
